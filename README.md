@@ -50,5 +50,6 @@ streamlit run app.py
 *Budget breakdown
 
 ## 🌐 Live Application
-🔗 
+🔗 https://agenticaitravelplanner-sngbsbpueyb4ic65wdx4rc.streamlit.app/
+
 
