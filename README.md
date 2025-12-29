@@ -20,6 +20,7 @@ flights, hotels, tourist places, live weather, and budget estimation.
 - JSON datasets
 
 ## 📂 Project Structure
+```bash
 Agentic_AI_Travel_Planner/
 ├── data/
 ├── main.py
@@ -28,6 +29,7 @@ Agentic_AI_Travel_Planner/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ## ▶️ How to Run
@@ -48,4 +50,5 @@ streamlit run app.py
 *Budget breakdown
 
 ## 🌐 Live Application
-🔗 https://agenticaitravelplanner-med6stu9y3kabla9rrlw3v.streamlit.app/
+🔗 
+
