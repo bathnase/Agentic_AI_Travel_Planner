@@ -53,3 +53,8 @@ streamlit run app.py
 🔗 https://agenticaitravelplanner-sngbsbpueyb4ic65wdx4rc.streamlit.app/
 
 
+Created By :- Bathnase Shivakumar
+Github link:-https://github.com/bathnase/Agentic_AI_Travel_Planner
+
+
+
